@@ -1,2 +1,5 @@
 # Espinoza_Hector_CIS17B_48037
-CIS17B GUI
+-Book
+-Hmwrk
+-Lab
+-Proj
